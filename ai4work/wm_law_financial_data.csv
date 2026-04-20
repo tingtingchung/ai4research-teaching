@@ -1,0 +1,111 @@
+fiscal_year,category,subcategory,amount_usd,notes
+2020,Revenue,JD Tuition - In-State,8450000,285 students avg in-state rate $29650
+2020,Revenue,JD Tuition - Out-of-State,12800000,195 students avg out-of-state rate $65641
+2020,Revenue,LLM & Online Programs,1200000,Graduate programs
+2020,Revenue,State Appropriation,4100000,Commonwealth of Virginia allocation
+2020,Revenue,Gifts & Endowment Draw,3200000,Annual fund + 4.5% endowment payout
+2020,Revenue,Grants & Contracts,850000,Research grants
+2020,Revenue,Fees & Other,620000,Application filing clinic fees
+2020,Expense,Faculty Salaries,11200000,42 FTE faculty
+2020,Expense,Staff Salaries,5400000,68 FTE staff
+2020,Expense,Benefits,3800000,28% of total salaries
+2020,Expense,Financial Aid - Merit,4200000,Scholarships awarded
+2020,Expense,Financial Aid - Need,1100000,Need-based grants
+2020,Expense,Facilities & Utilities,1850000,Building ops maintenance
+2020,Expense,Library & Technology,980000,Subscriptions databases equipment
+2020,Expense,Student Programs,420000,Activities clinics pro bono
+2020,Expense,Marketing & Recruitment,380000,Admissions outreach events
+2020,Expense,Administration & Overhead,1240000,Central university allocation
+2020,Enrollment,JD Total Headcount,480,Full-time equivalent students
+2020,Enrollment,JD 1L Class Size,162,First-year entering class
+2020,Enrollment,LLM Headcount,38,Graduate program enrollment
+2020,Enrollment,Bar Passage Rate,91.2,First-time takers Virginia bar
+2020,Enrollment,Employment at Graduation,87.4,Percent employed within 10 months
+2021,Revenue,JD Tuition - In-State,8720000,290 students avg rate $30069
+2021,Revenue,JD Tuition - Out-of-State,13100000,198 students avg rate $66162
+2021,Revenue,LLM & Online Programs,1380000,Graduate programs growth
+2021,Revenue,State Appropriation,4100000,Flat appropriation
+2021,Revenue,Gifts & Endowment Draw,3450000,Increased giving COVID recovery
+2021,Revenue,Grants & Contracts,920000,Research grants
+2021,Revenue,Fees & Other,590000,Application filing clinic fees
+2021,Expense,Faculty Salaries,11480000,43 FTE faculty new hire
+2021,Expense,Staff Salaries,5520000,69 FTE staff
+2021,Expense,Benefits,3920000,28% of total salaries
+2021,Expense,Financial Aid - Merit,4450000,Increased scholarship competition
+2021,Expense,Financial Aid - Need,1180000,Need-based grants
+2021,Expense,Facilities & Utilities,1900000,Building ops maintenance
+2021,Expense,Library & Technology,1020000,Subscriptions databases equipment
+2021,Expense,Student Programs,380000,Activities clinics pro bono
+2021,Expense,Marketing & Recruitment,410000,Increased digital recruitment
+2021,Expense,Administration & Overhead,1290000,Central university allocation
+2021,Enrollment,JD Total Headcount,488,Full-time equivalent students
+2021,Enrollment,JD 1L Class Size,166,First-year entering class
+2021,Enrollment,LLM Headcount,44,Graduate program enrollment
+2021,Enrollment,Bar Passage Rate,92.1,First-time takers Virginia bar
+2021,Enrollment,Employment at Graduation,88.9,Percent employed within 10 months
+2022,Revenue,JD Tuition - In-State,9050000,295 students avg rate $30678
+2022,Revenue,JD Tuition - Out-of-State,13620000,202 students avg rate $67426
+2022,Revenue,LLM & Online Programs,1590000,Online expansion
+2022,Revenue,State Appropriation,4350000,Modest appropriation increase
+2022,Revenue,Gifts & Endowment Draw,3800000,Capital campaign momentum
+2022,Revenue,Grants & Contracts,1050000,Research grants
+2022,Revenue,Fees & Other,640000,Application filing clinic fees
+2022,Expense,Faculty Salaries,11820000,43 FTE faculty merit raises
+2022,Expense,Staff Salaries,5740000,70 FTE staff
+2022,Expense,Benefits,4080000,28% of total salaries
+2022,Expense,Financial Aid - Merit,4780000,Scholarship arms race intensifying
+2022,Expense,Financial Aid - Need,1250000,Need-based grants
+2022,Expense,Facilities & Utilities,2050000,Energy costs increase
+2022,Expense,Library & Technology,1080000,New research databases
+2022,Expense,Student Programs,430000,Activities clinics pro bono
+2022,Expense,Marketing & Recruitment,460000,Brand refresh campaign
+2022,Expense,Administration & Overhead,1350000,Central university allocation
+2022,Enrollment,JD Total Headcount,497,Full-time equivalent students
+2022,Enrollment,JD 1L Class Size,170,First-year entering class
+2022,Enrollment,LLM Headcount,52,Graduate program enrollment
+2022,Enrollment,Bar Passage Rate,91.8,First-time takers Virginia bar
+2022,Enrollment,Employment at Graduation,90.2,Percent employed within 10 months
+2023,Revenue,JD Tuition - In-State,9380000,298 students avg rate $31477
+2023,Revenue,JD Tuition - Out-of-State,14100000,205 students avg rate $68780
+2023,Revenue,LLM & Online Programs,1820000,Online JD certificate growth
+2023,Revenue,State Appropriation,4500000,Legislative budget support
+2023,Revenue,Gifts & Endowment Draw,4100000,Strong endowment performance
+2023,Revenue,Grants & Contracts,1180000,Expanded research portfolio
+2023,Revenue,Fees & Other,680000,Application filing clinic fees
+2023,Expense,Faculty Salaries,12200000,44 FTE faculty strategic hire
+2023,Expense,Staff Salaries,5980000,71 FTE staff
+2023,Expense,Benefits,4260000,28% of total salaries
+2023,Expense,Financial Aid - Merit,5100000,Scholarship competitiveness
+2023,Expense,Financial Aid - Need,1340000,Need-based grants
+2023,Expense,Facilities & Utilities,2180000,Deferred maintenance projects
+2023,Expense,Library & Technology,1120000,AI research tools added
+2023,Expense,Student Programs,460000,Expanded pro bono clinics
+2023,Expense,Marketing & Recruitment,510000,Increased digital presence
+2023,Expense,Administration & Overhead,1420000,Central university allocation
+2023,Enrollment,JD Total Headcount,503,Full-time equivalent students
+2023,Enrollment,JD 1L Class Size,172,First-year entering class
+2023,Enrollment,LLM Headcount,58,Graduate program enrollment
+2023,Enrollment,Bar Passage Rate,93.4,First-time takers Virginia bar
+2023,Enrollment,Employment at Graduation,91.6,Percent employed within 10 months
+2024,Revenue,JD Tuition - In-State,9720000,300 students avg rate $32400
+2024,Revenue,JD Tuition - Out-of-State,14580000,207 students avg rate $70435
+2024,Revenue,LLM & Online Programs,2050000,Online programs peak growth
+2024,Revenue,State Appropriation,4650000,State budget increase
+2024,Revenue,Gifts & Endowment Draw,4380000,Endowment draw + major gift
+2024,Revenue,Grants & Contracts,1320000,Federal and foundation grants
+2024,Revenue,Fees & Other,710000,Application filing clinic fees
+2024,Expense,Faculty Salaries,12650000,45 FTE faculty retention raises
+2024,Expense,Staff Salaries,6220000,72 FTE staff
+2024,Expense,Benefits,4440000,28.5% benefits rate increase
+2024,Expense,Financial Aid - Merit,5480000,Scholarship awards up
+2024,Expense,Financial Aid - Need,1420000,Need-based grants
+2024,Expense,Facilities & Utilities,2310000,HVAC renovation project
+2024,Expense,Library & Technology,1180000,AI and legal research tools
+2024,Expense,Student Programs,490000,Clinics and student orgs
+2024,Expense,Marketing & Recruitment,560000,Graduate program marketing
+2024,Expense,Administration & Overhead,1500000,Central university allocation
+2024,Enrollment,JD Total Headcount,507,Full-time equivalent students
+2024,Enrollment,JD 1L Class Size,173,First-year entering class
+2024,Enrollment,LLM Headcount,64,Graduate program enrollment
+2024,Enrollment,Bar Passage Rate,93.1,First-time takers Virginia bar
+2024,Enrollment,Employment at Graduation,92.3,Percent employed within 10 months
